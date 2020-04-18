@@ -1,0 +1,15 @@
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\bin\Debug\BoatReserves.exe.config
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\bin\Debug\BoatReserves.exe
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\bin\Debug\BoatReserves.pdb
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.csprojAssemblyReference.cache
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.Form1.resources
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.Properties.Resources.resources
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.csproj.GenerateResource.cache
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.exe
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.pdb
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.AddNewSailor.resources
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.DashBoard.resources
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.AddNewBoat.resources
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.AddReservation.resources
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.ViewReservation.resources
+C:\Users\purle\source\repos\BoatReserves\BoatReserves\obj\Debug\BoatReserves.ReservationInfo.resources
